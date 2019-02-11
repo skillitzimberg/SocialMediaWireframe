@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/skillitzimberg/SocialMediaWireframe#readme",
   "dependencies": {
+    "prop-types": "^15.5.10",
     "react": "^15.5.4"
   },
   "devDependencies": {
