@@ -18,5 +18,8 @@
   "homepage": "https://github.com/skillitzimberg/SocialMediaWireframe#readme",
   "dependencies": {
     "react": "^15.5.4"
+  },
+  "devDependencies": {
+    "webpack": "^3.4.0"
   }
 }
