@@ -3,9 +3,9 @@ import React from "react";
 function Profile(){
   const profileStyles = {
     width: '30%',
-    height: '300px',
+    height: '200px',
     border: '1px solid blue',
-    marginTop: '5px'
+    margin: '5px'
   }
   return (
     <div style={profileStyles}>
