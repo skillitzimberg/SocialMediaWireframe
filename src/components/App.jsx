@@ -3,13 +3,19 @@ import Header from "./Header";
 import Profile from "./Profile";
 import Side from "./Side";
 import Main from "./Main";
+import Follow from "./Follow";
+import Content from "./Content";
 
 function App(){
+  const appStyles = {
+    width: '100%'
+  }
+
   return (
-    <div>
+    <div style={appStyles}>
       <Header/>
-      <Side/>
-      <Main/>
+      <hr/>
+      <Content/>
     </div>
   );
 }
